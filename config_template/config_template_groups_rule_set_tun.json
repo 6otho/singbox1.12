@@ -141,9 +141,9 @@
              "filter":[
              {"action":"exclude","keywords":["网站|地址|剩余|过期|时间|有效"]}
           ],
-             "url": "http://cp.cloudflare.com/generate_204",
-             "interval": "1m",
-             "tolerance": 5
+             "url": "http://www.gstatic.com/generate_204",
+             "interval": "3m",
+             "tolerance": 50
         },
         {
             "tag": "🤖 AI",
@@ -382,9 +382,9 @@
                     ]
                 }
             ],
-            "url": "http://cp.cloudflare.com/generate_204",
-            "interval": "1m",
-            "tolerance": 5
+            "url": "http://www.gstatic.com/generate_204",
+            "interval": "3m",
+            "tolerance": 50
         },
         {
             "tag": "🇨🇳 台湾自动",
@@ -404,9 +404,9 @@
                     ]
                 }
             ],
-            "url": "http://cp.cloudflare.com/generate_204",
-            "interval": "1m",
-            "tolerance": 5
+            "url": "http://www.gstatic.com/generate_204",
+            "interval": "3m",
+            "tolerance": 50
         },
         {
             "tag": "🇸🇬 新加坡自动",
@@ -426,9 +426,9 @@
                     ]
                 }
             ],
-            "url": "http://cp.cloudflare.com/generate_204",
-            "interval": "1m",
-            "tolerance": 5
+            "url": "http://www.gstatic.com/generate_204",
+            "interval": "3m",
+            "tolerance": 50
         },
         {
             "tag": "🇯🇵 日本自动",
@@ -448,9 +448,9 @@
                     ]
                 }
             ],
-            "url": "http://cp.cloudflare.com/generate_204",
-            "interval": "1m",
-            "tolerance": 5
+            "url": "http://www.gstatic.com/generate_204",
+            "interval": "3m",
+            "tolerance": 50
         },
         {
             "tag": "🇰🇷 韩国自动",
@@ -471,9 +471,9 @@
                     ]
                 }
             ],
-            "url": "http://cp.cloudflare.com/generate_204",
-            "interval": "1m",
-            "tolerance": 5
+            "url": "http://www.gstatic.com/generate_204",
+            "interval": "3m",
+            "tolerance": 50
         },
         {
             "tag": "🇺🇸 美国自动",
@@ -493,9 +493,9 @@
                     ]
                 }
             ],
-            "url": "http://cp.cloudflare.com/generate_204",
-            "interval": "1m",
-            "tolerance": 5
+            "url": "http://www.gstatic.com/generate_204",
+            "interval": "3m",
+            "tolerance": 50
         },
         {
             "tag": "🌐 全球自动",
