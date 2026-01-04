@@ -384,7 +384,7 @@
             ],
             "url": "http://cp.cloudflare.com/generate_204",
             "interval": "1m",
-            "tolerance": 0
+            "tolerance": 5
         },
         {
             "tag": "🇨🇳 台湾自动",
@@ -406,7 +406,7 @@
             ],
             "url": "http://cp.cloudflare.com/generate_204",
             "interval": "1m",
-            "tolerance": 0
+            "tolerance": 5
         },
         {
             "tag": "🇸🇬 新加坡自动",
@@ -428,7 +428,7 @@
             ],
             "url": "http://cp.cloudflare.com/generate_204",
             "interval": "1m",
-            "tolerance": 0
+            "tolerance": 5
         },
         {
             "tag": "🇯🇵 日本自动",
@@ -450,7 +450,7 @@
             ],
             "url": "http://cp.cloudflare.com/generate_204",
             "interval": "1m",
-            "tolerance": 0
+            "tolerance": 5
         },
         {
             "tag": "🇰🇷 韩国自动",
@@ -473,7 +473,7 @@
             ],
             "url": "http://cp.cloudflare.com/generate_204",
             "interval": "1m",
-            "tolerance": 0
+            "tolerance": 5
         },
         {
             "tag": "🇺🇸 美国自动",
@@ -495,7 +495,7 @@
             ],
             "url": "http://cp.cloudflare.com/generate_204",
             "interval": "1m",
-            "tolerance": 0
+            "tolerance": 5
         },
         {
             "tag": "🌐 全球自动",
